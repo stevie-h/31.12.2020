@@ -26,7 +26,7 @@ public class Main
         System.out.println(arr3[2]);
 
         //ex4
-        // System.out.println(arr[arr.length - 1]);
+        System.out.println(arr[arr.length - 1]);
 
         //ex5
         int[] arr5 = new int[20];
@@ -352,7 +352,6 @@ public class Main
         System.out.println();
 
         //ex3
-
         for (int i1 = 1; i1 <= 10; i1++)
         {
             int sum3 = 1;
